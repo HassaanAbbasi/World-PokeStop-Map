@@ -8,7 +8,7 @@ Anaheim - Anaheim Packing District,33.831512,-117.912224
 Anaheim - Center St,33.835819,-117.913124
 Anaheim - Convention Center,33.799431,-117.921448
 Anaheim - Disneyland,33.812199,-117.919014
-Anaheim - Knott?s Berry Farm,33.844292,-118.000282
+Anaheim - Knott;s Berry Farm,33.844292,-118.000282
 Anaheim - Stoddard Park,33.799973,-117.934158
 Bay St Louis - Silver Slipper Casino,30.239552,-89.425575
 Bemidji - Paul Bunyan & Babe the Blue Ox Statues,47.470402,-94.878937
@@ -17,7 +17,7 @@ Biloxi - Belgicans Fries,30.392225,-88.98983
 Biloxi - Lighthouse Park,30.395067,-88.902512
 Biloxi - Ohr-O'Keefe Museum of Art,30.393223,-88.872307
 Biloxi - St. Martin Community Center,30.44376,-88.858704
-Bloomington - Mall of America©,44.85487,-93.241882
+Bloomington - Mall of America,44.85487,-93.241882
 Brisbane - South Bank,-27.48168,153.021988
 Brooklyn - Brooklyn Borough Hall,40.692734,-73.990303
 Brooklyn - Grand Army Plaza,40.673817,-73.969955
@@ -42,7 +42,7 @@ Cleveland - Playhouse Square,41.501274,-81.680847
 Cleveland - Rock And Roll Hall Of Fame,41.508511,-81.69532
 Cleveland - Wade Oval,41.510803,-81.611626
 Cologne - Aachener Weiher,50.935253,6.927852
-Cologne - Media Park K”ln,50.948521,6.943493
+Cologne - Media Park Koln,50.948521,6.943493
 Cologne - Rheinauhafen,50.929493,6.963587
 Coral Gables - Books & Books,25.750481,-80.260086
 Coral Gables - Coral Gables Museum,25.750467,-80.2603
@@ -52,13 +52,13 @@ Corpus Christi - Art Center of Corpus Christi,27.791916,-97.392654
 Corpus Christi - Cole Park,27.772635,-97.38958
 Corpus Christi - Executive Surf Club,27.794353,-97.394371
 Corpus Christi - Harbor Bridge,27.812847,-97.395271
-Corpus Christi - Harrison?s Landing,27.796967,-97.38903
-Corpus Christi - Hester?s Caf‚,27.772942,-97.400688
+Corpus Christi - Harrison;s Landing,27.796967,-97.38903
+Corpus Christi - Hesters Cafe,27.772942,-97.400688
 Corpus Christi - Oso Bay Wetlands Preserve & Learning Center,27.66853,-97.331635
 Corpus Christi - Sherrill Park,27.790602,-97.393082
 Corpus Christi - South Texas Botanical Gardens & Nature Center,27.652485,-97.406952
 Corpus Christi - Texas A&M University Corpus Christi,27.712648,-97.324394
-Corpus Christi - The Water?s Edge,27.78837,-97.393745
+Corpus Christi - The Water;s Edge,27.78837,-97.393745
 Darwin - Mitchell Street,-35.324604,149.139465
 Detroit - Belle Isle,42.34314,-82.97477
 Detroit - Comerica Park,42.338924,-83.04882
@@ -82,15 +82,15 @@ Glens Falls - Senior Citizens Center,43.312141,-73.650383
 Glens Falls - St Alphonsus Church,43.308365,-73.649651
 Glens Falls - Steve's Place,43.302879,-73.661163
 Glyndon - Buffalo River State Park,46.87236,-96.4748
-Gulfport - Brooklyn?s Pizzeria,30.321556,-89.336525
+Gulfport - Brooklyn;s Pizzeria,30.321556,-89.336525
 Gulfport - Lynn Meadows Discovery Center,30.382427,-89.037483
 Hobart - Pigeon Hole,-42.886578,147.319107
-Hong Kong - Kowloon Tsai Park (?????),22.330332,114.185349
-Hong Kong - Lai Chi Kok Park (??),22.333815,114.140259
-Hong Kong - Morse Park (????),22.339346,114.190041
+Hong Kong - Kowloon Tsai Park,22.330332,114.185349
+Hong Kong - Lai Chi Kok Park,22.333815,114.140259
+Hong Kong - Morse Park,22.339346,114.190041
 Hong Kong - Star Ferry Central Pier,22.285904,114.160843
-Hong Kong - Tin Shui Wai Park (?????),22.456039,114.002007
-Hong Kong - Victoria Park (??????),22.281839,114.187943
+Hong Kong - Tin Shui Wai Park,22.456039,114.002007
+Hong Kong - Victoria Park,22.281839,114.187943
 Houston - Houston Arboretum & Nature Center,29.763798,-95.452248
 Houston - Johnson Space Center,29.55942,-95.090034
 Houston - The Galleria,29.739235,-95.464653
@@ -109,7 +109,7 @@ Istanbul - Ozgurluk Parki,40.979259,29.055744
 Istanbul - Sultanahmet Meydani,41.007214,28.977783
 Istanbul - Taksim Gezi Parki,41.038811,28.9865
 Kemah - Kemah Boardwalk,29.547262,-95.020164
-La Ca¤ada Flintridge - Descanso Gardens,34.20137,-118.211327
+La Canada Flintridge - Descanso Gardens,34.20137,-118.211327
 La Mirada - La Mirada Community Regional Park,33.906406,-118.00708
 Largo - Largo Central Park,27.915258,-82.785484
 Lawndale - Alondra Park,33.886162,-118.342545
@@ -199,9 +199,9 @@ Ocean Springs - The Mary C. O'Keefe Cultural Center of Arts and Education,30.413
 Orlando - Cranes Roost Park,28.665207,-81.384781
 Orlando - Disney Springs,28.369963,-81.519379
 Orlando - Fun Spot America,28.466885,-81.455772
-Orlando - ICON Park?,28.444277,-81.469353
+Orlando - ICON Park,28.444277,-81.469353
 Orlando - Lake Eola Park,28.543482,-81.373688
-Orlando - LEGOLAND© Florida Resort,27.988955,-81.69117
+Orlando - LEGOLAND Florida Resort,27.988955,-81.69117
 Orlando - The Florida Mall,28.47151,-81.382065
 Orlando - The Mall at Millenia,28.485479,-81.43203
 Orlando - Universal CityWalk,28.472958,-81.465996
@@ -326,7 +326,7 @@ Torrance - Charles H. Wilson Park,33.825829,-118.326225
 Torrance - El Prado Park,33.831764,-118.319832
 Tualatin - Tualatin Commons,45.38287,-122.762009
 Vienna - Belvedere Schlossgarten,48.194214,16.380198
-Vienna - Sch”nbrunn,48.186069,16.312689
+Vienna - Schonbrunn,48.186069,16.312689
 Vienna - Stadtpark,48.204617,16.37956
 Vienna - Volksgarten,48.208046,16.361113
 Waite Park - Quarry Park and Nature Preserve,45.527706,-94.240425
@@ -342,4 +342,4 @@ Woodstock - Southwestern Public Health - Oxford Site,43.132675,-80.760246
 Woodstock - Theatre Woodstock,43.129353,-80.756409
 Woodstock - Woodstock Art Gallery,43.130077,-80.758316
 Woodstock - Woodstock Museum National Historic Site,43.129242,-80.757454
-Yucatan - Chich‚n Itz ,20.684275,-88.567833
+Yucatan - Chichen Itza,20.684275,-88.567833
