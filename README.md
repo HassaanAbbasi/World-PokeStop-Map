@@ -9,6 +9,6 @@ There is an included base "PokeStops.html" map that contains some points. In ord
 * [Pandas](https://pandas.pydata.org/) - Python data analysis library
 
 ## Acknowledgments
-The data used in this project was collected from https://www.latlong.net/location/pok-mon-go-locations-3.
-
 I wish to travel around the world more in the near future, so I made this project in hopes of finding cool places to visit while I play Pokemon GO abroad.
+
+The data used in this project was collected from https://www.latlong.net/location/pok-mon-go-locations-3.
